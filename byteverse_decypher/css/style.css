@@ -8,15 +8,17 @@
 }
 
 body {
-    background-color: #F7F6BB;
+    background: linear-gradient(to bottom,#e7bf5b, #bda66d,#EAE0C7);
     align-items: center;
     justify-content: center;
 }
 #slide{
-    /* background-image: url('/images/bigimg1.jpg');
+    background-image: url('/images/bigimg1.jpg');
     background-position: center;
-    background-size: cover; */
-    background-color: #FCDC2A ;
+    background-size: cover;
+    height: 30vh;
+    width: 100vw;
+    /* background : linear-gradient(to bottom,#e6835f,#cd8c74,#EAC4B6) ; */
 }
 
 .container {
@@ -25,6 +27,7 @@ body {
     flex-direction:row;
     justify-content: center;
 }
+
 
 
 .card {
