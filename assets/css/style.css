@@ -21,7 +21,6 @@
 }
 
 .ronakj-card {
-  width:40vw;
   align-items: center;
 }
 
@@ -71,7 +70,7 @@
   background-color: rgb(175, 226, 188);
 }
 
-.hero .container {
+.hero .container { 
   display: grid;
   gap: 80px;
 }
