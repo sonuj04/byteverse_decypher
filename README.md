@@ -71,21 +71,19 @@ The Motivation behind Roots&Routes is to support local farmers, offer fresher pr
 
 ## Screenshots
 
-![Screenshots](https://drive.google.com/file/d/1IvRLGohklioE1uLSnEE9k0WDFyCfcNoe/view?usp=sharing)
+![ss1](https://github.com/sonuj04/byteverse_decypher/assets/161937646/a889d295-c8df-40a1-8b44-055ab47faa84)
 
-![Screenshots](https://drive.google.com/file/d/1rbnijyfNq0hXBZsm8ay5Xp2sf5kMY_aY/view?usp=sharing)
+![ss2](https://github.com/sonuj04/byteverse_decypher/assets/161937646/16bdc8a8-4f7c-486e-8ee3-972d751d9d8a)
 
-![Screenshots](https://drive.google.com/file/d/15r4NmhXYmPOblfVbyu086WKLvtsyT3Bn/view?usp=sharing)
+![ss3](https://github.com/sonuj04/byteverse_decypher/assets/161937646/34f16486-1a42-4320-90a0-84079ce0d9d5)
 
-![Screenshots](https://drive.google.com/file/d/1vKSOMTVY8R6aodo3fFQFqLGhNKoOGC2K/view?usp=sharing)
+![ss4](https://github.com/sonuj04/byteverse_decypher/assets/161937646/107038fc-a501-4f8e-921c-05a4c6dd7214)
 
-![Screenshots](https://drive.google.com/file/d/1ukl0qtJ7frfbkcnZdHa-V87H5zABkgVo/view?usp=sharing)
+![ss5](https://github.com/sonuj04/byteverse_decypher/assets/161937646/a2e80d1e-0d05-4432-8c7a-52eff521cea6)
 
-![Screenshots](https://drive.google.com/file/d/10vFtcA7zcAFNKjq140j8I4SGi7Uh6Ruy/view?usp=sharing)
+![ss6](https://github.com/sonuj04/byteverse_decypher/assets/161937646/6c8e828f-f2f0-4b99-b5c6-bdca43ca5da0)
 
-![Screenshots](https://drive.google.com/file/d/1OqBQtFcU7NB9kRh2mVSZIT711qNXYHl_/view?usp=sharing)
-
-
+![ss7](https://github.com/sonuj04/byteverse_decypher/assets/161937646/9b92ac8a-6d5f-442e-9254-afc164479177)
 
 
 
