@@ -30,6 +30,7 @@ Libraries used in servlet: java.io.IOException, java.io.PrintWriter, javax.servl
 - **Aadhar card verification**: farmers has to submit their card photos which will be verified by our server
 - **Google translator**: helps farmers access the website who are not proficient in english. 
 - **Grouping based on locality**: Farmers are grouped based on their regions and provided logistics
+- **Responsiveness**: Fully responsive website for better accessibility
 
 
 
@@ -67,6 +68,9 @@ The Motivation behind Roots&Routes is to support local farmers, offer fresher pr
 - Incorporate chatbot feature using Machine Learning Algorithms
 
 
+## Video Walkthrough of our project
+
+**Youtube link**: https://youtu.be/V-4BgXBBRMc?feature=shared 
 
 
 ## Screenshots
