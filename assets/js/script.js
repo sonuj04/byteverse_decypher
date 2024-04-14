@@ -80,3 +80,13 @@ const scrollReveal = function () {
 
 window.addEventListener("scroll", scrollReveal);
 window.addEventListener("load", scrollReveal);
+
+
+
+
+function loadGoogleTranslate() {
+  new google.translate.TranslateElement(
+    
+    'google_element'
+  );
+}
